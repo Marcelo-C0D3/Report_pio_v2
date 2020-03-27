@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <../lib/NTPClient/NTPClient.h>            //Network time protocol lib.
+#include <../lib/NTPClient/NTPClient.h>            //Network time protocol librarie.
 #include <ESP8266WiFi.h>                           //Wifi Propierts to esp8266
 #include <WiFiUdp.h>                               //Service UDP, time!
 #include <ESP8266WebServer.h>                      //Local WebServer used to serve the configuration portal
