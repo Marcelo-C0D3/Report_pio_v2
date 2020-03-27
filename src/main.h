@@ -1,5 +1,6 @@
 #include "user_interface.h"
 
+//Class to progm.
 class Manager
 {
 private:
